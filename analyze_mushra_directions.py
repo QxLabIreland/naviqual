@@ -21,7 +21,7 @@ speech_xys = [(0, -2), (0, -2), (2, 0), (0, -2), (2, 0), (0, -2), (2, 0), (0, -2
 listener_xys = [None, None, None, None, None, None, None, (1, 2), (-1, 2), (1, 2), (-1, 2), (1, 2), (-1, 2)]
 
 # Configuration settings
-ir_type = "HRIR"
+ir_type = "BRIR"
 subject_id = "D1"
 speaker_layout = "none"
 sr = 44100
@@ -31,7 +31,7 @@ for mushra_index in range(7, 13):
     # Setup output folders
     mushra_folder = f'./output/mushra_{ir_type.lower()}/mushra{mushra_index}/'
     data_folder = f'./output/mushra_{ir_type.lower()}/mushra_data/'
-    plots_folder = f'./output/multi_point/mushra_{ir_type.lower()}/mushra_plots/'
+    plots_folder = f'./output/mushra_{ir_type.lower()}/mushra_plots/'
 
     # Create folders if it does not exist
     if not os.path.exists(mushra_folder):
