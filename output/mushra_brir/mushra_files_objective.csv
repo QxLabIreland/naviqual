@@ -1,0 +1,79 @@
+,song_name,speech_name,motion_type,ir_type,speech_xy,data_point,listener_x,listener_y,listener_azi,snr,locq
+0,Al James - Schoolboy Facination,clnsp0,translational,BRIR,"(0, -2)",,,,,inf,1
+1,Al James - Schoolboy Facination,clnsp0,translational,BRIR,"(0, -2)",,,,,0,0.33259761
+2,Al James - Schoolboy Facination,clnsp0,translational,BRIR,"(0, -2)",L2,1,-0.5,0,-0.463699661,0.534325408
+3,Al James - Schoolboy Facination,clnsp0,translational,BRIR,"(0, -2)",L1,0,0.5,0,4.567722977,0.5821141
+4,Al James - Schoolboy Facination,clnsp0,translational,BRIR,"(0, -2)",L3,-1,1.5,0,12.94488838,0.754957854
+5,Al James - Schoolboy Facination,clnsp0,translational,BRIR,"(0, -2)",L4,1,2,0,15.51219391,0.811118956
+6,Matthew Entwistle - Dont You Ever,clnsp340,translational,BRIR,"(0, -2)",,,,,inf,1
+7,Matthew Entwistle - Dont You Ever,clnsp340,translational,BRIR,"(0, -2)",,,,,0,0.206650299
+8,Matthew Entwistle - Dont You Ever,clnsp340,translational,BRIR,"(0, -2)",L2,1,-0.5,0,-0.924010587,0.392635367
+9,Matthew Entwistle - Dont You Ever,clnsp340,translational,BRIR,"(0, -2)",L1,0,0.5,0,4.702150338,0.436858035
+10,Matthew Entwistle - Dont You Ever,clnsp340,translational,BRIR,"(0, -2)",L3,-1,1.5,0,12.23955822,0.609757662
+11,Matthew Entwistle - Dont You Ever,clnsp340,translational,BRIR,"(0, -2)",L4,1,2,0,16.18060762,0.679481863
+12,Matthew Entwistle - Dont You Ever,clnsp1006,translational,BRIR,"(2, 0)",,,,,inf,1
+13,Matthew Entwistle - Dont You Ever,clnsp1006,translational,BRIR,"(2, 0)",,,,,0,0.319425576
+14,Matthew Entwistle - Dont You Ever,clnsp1006,translational,BRIR,"(2, 0)",L1,0,0,0,-2.766755956,0.478959133
+15,Matthew Entwistle - Dont You Ever,clnsp1006,translational,BRIR,"(2, 0)",L2,-1,0.5,0,3.321290655,0.6094388
+16,Matthew Entwistle - Dont You Ever,clnsp1006,translational,BRIR,"(2, 0)",L3,1,2,0,10.05769501,0.705373539
+17,Matthew Entwistle - Dont You Ever,clnsp1006,translational,BRIR,"(2, 0)",L4,-1,2,0,11.47871968,0.748369461
+18,Skelpolu - Together Alone,clnsp544,translational,BRIR,"(0, -2)",,,,,inf,1
+19,Skelpolu - Together Alone,clnsp544,translational,BRIR,"(0, -2)",,,,,0,0.275283871
+20,Skelpolu - Together Alone,clnsp544,translational,BRIR,"(0, -2)",L2,1,-0.5,0,0.229853304,0.420065277
+21,Skelpolu - Together Alone,clnsp544,translational,BRIR,"(0, -2)",L1,0,0.5,0,5.002715258,0.462470607
+22,Skelpolu - Together Alone,clnsp544,translational,BRIR,"(0, -2)",L3,-1,1.5,0,13.2758055,0.630840627
+23,Skelpolu - Together Alone,clnsp544,translational,BRIR,"(0, -2)",L4,1,2,0,16.17575407,0.693939749
+24,Skelpolu - Together Alone,clnsp980,translational,BRIR,"(2, 0)",,,,,inf,1
+25,Skelpolu - Together Alone,clnsp980,translational,BRIR,"(2, 0)",,,,,0,0.350532482
+26,Skelpolu - Together Alone,clnsp980,translational,BRIR,"(2, 0)",L1,0,0,0,-1.443248093,0.464746203
+27,Skelpolu - Together Alone,clnsp980,translational,BRIR,"(2, 0)",L2,-1,0.5,0,4.098995184,0.591676076
+28,Skelpolu - Together Alone,clnsp980,translational,BRIR,"(2, 0)",L3,1,2,0,10.55646107,0.681246155
+29,Skelpolu - Together Alone,clnsp980,translational,BRIR,"(2, 0)",L4,-1,2,0,13.48491331,0.727075887
+30,Juliet's Rescue - Heartbeats,clnsp453,translational,BRIR,"(0, -2)",,,,,inf,1
+31,Juliet's Rescue - Heartbeats,clnsp453,translational,BRIR,"(0, -2)",,,,,0,0.295529326
+32,Juliet's Rescue - Heartbeats,clnsp453,translational,BRIR,"(0, -2)",L2,1,-0.5,0,-0.324039959,0.461957914
+33,Juliet's Rescue - Heartbeats,clnsp453,translational,BRIR,"(0, -2)",L1,0,0.5,0,4.695466896,0.502340852
+34,Juliet's Rescue - Heartbeats,clnsp453,translational,BRIR,"(0, -2)",L3,-1,1.5,0,13.14114911,0.664620901
+35,Juliet's Rescue - Heartbeats,clnsp453,translational,BRIR,"(0, -2)",L4,1,2,0,15.59807302,0.728811128
+36,Juliet's Rescue - Heartbeats,clnsp596,translational,BRIR,"(2, 0)",,,,,inf,1
+37,Juliet's Rescue - Heartbeats,clnsp596,translational,BRIR,"(2, 0)",,,,,0,0.357207391
+38,Juliet's Rescue - Heartbeats,clnsp596,translational,BRIR,"(2, 0)",L1,0,0,0,-1.186328039,0.502453825
+39,Juliet's Rescue - Heartbeats,clnsp596,translational,BRIR,"(2, 0)",L2,-1,0.5,0,4.7179423,0.629601968
+40,Juliet's Rescue - Heartbeats,clnsp596,translational,BRIR,"(2, 0)",L3,1,2,0,10.60626056,0.729759618
+41,Juliet's Rescue - Heartbeats,clnsp596,translational,BRIR,"(2, 0)",L4,-1,2,0,13.66125162,0.767723836
+42,Matthew Entwistle - Dont You Ever,clnsp52,rotational,BRIR,"(0, -2)",,,,,inf,1
+43,Matthew Entwistle - Dont You Ever,clnsp52,rotational,BRIR,"(0, -2)",,,,,0,0.21926461
+44,Matthew Entwistle - Dont You Ever,clnsp52,rotational,BRIR,"(0, -2)",D1,1,2,85,14.75267386,0.627694196
+45,Matthew Entwistle - Dont You Ever,clnsp52,rotational,BRIR,"(0, -2)",D2,1,2,300,15.59034144,0.654291253
+46,Matthew Entwistle - Dont You Ever,clnsp52,rotational,BRIR,"(0, -2)",D3,1,2,200,15.55365571,0.670572531
+47,Matthew Entwistle - Dont You Ever,clnsp52,rotational,BRIR,"(0, -2)",D4,1,2,20,16.11004441,0.717217578
+48,Matthew Entwistle - Dont You Ever,clnsp573,rotational,BRIR,"(2, 0)",,,,,inf,1
+49,Matthew Entwistle - Dont You Ever,clnsp573,rotational,BRIR,"(2, 0)",,,,,0,0.306504593
+50,Matthew Entwistle - Dont You Ever,clnsp573,rotational,BRIR,"(2, 0)",D1,-1,2,255,14.2960149,0.717348764
+51,Matthew Entwistle - Dont You Ever,clnsp573,rotational,BRIR,"(2, 0)",D2,-1,2,50,13.21644093,0.692396143
+52,Matthew Entwistle - Dont You Ever,clnsp573,rotational,BRIR,"(2, 0)",D3,-1,2,195,14.10592072,0.698223023
+53,Matthew Entwistle - Dont You Ever,clnsp573,rotational,BRIR,"(2, 0)",D4,-1,2,15,13.24030753,0.735618237
+54,Skelpolu - Together Alone,clnsp242,rotational,BRIR,"(0, -2)",,,,,inf,1
+55,Skelpolu - Together Alone,clnsp242,rotational,BRIR,"(0, -2)",,,,,0,0.373699136
+56,Skelpolu - Together Alone,clnsp242,rotational,BRIR,"(0, -2)",D1,1,2,120,12.67194626,0.715836639
+57,Skelpolu - Together Alone,clnsp242,rotational,BRIR,"(0, -2)",D2,1,2,300,14.30165088,0.742224132
+58,Skelpolu - Together Alone,clnsp242,rotational,BRIR,"(0, -2)",D3,1,2,205,13.52685191,0.753213359
+59,Skelpolu - Together Alone,clnsp242,rotational,BRIR,"(0, -2)",D4,1,2,25,14.40971759,0.79015957
+60,Skelpolu - Together Alone,clnsp1086,rotational,BRIR,"(2, 0)",,,,,inf,1
+61,Skelpolu - Together Alone,clnsp1086,rotational,BRIR,"(2, 0)",,,,,0,0.338299118
+62,Skelpolu - Together Alone,clnsp1086,rotational,BRIR,"(2, 0)",D1,-1,2,270,13.88173689,0.690320184
+63,Skelpolu - Together Alone,clnsp1086,rotational,BRIR,"(2, 0)",D2,-1,2,50,13.20168408,0.695165798
+64,Skelpolu - Together Alone,clnsp1086,rotational,BRIR,"(2, 0)",D3,-1,2,195,12.42179556,0.701150463
+65,Skelpolu - Together Alone,clnsp1086,rotational,BRIR,"(2, 0)",D4,-1,2,15,12.93911632,0.729465366
+66,Juliet's Rescue - Heartbeats,clnsp608,rotational,BRIR,"(0, -2)",,,,,inf,1
+67,Juliet's Rescue - Heartbeats,clnsp608,rotational,BRIR,"(0, -2)",,,,,0,0.302412291
+68,Juliet's Rescue - Heartbeats,clnsp608,rotational,BRIR,"(0, -2)",D1,1,2,85,14.42239095,0.724825176
+69,Juliet's Rescue - Heartbeats,clnsp608,rotational,BRIR,"(0, -2)",D2,1,2,305,15.89699293,0.745830135
+70,Juliet's Rescue - Heartbeats,clnsp608,rotational,BRIR,"(0, -2)",D3,1,2,200,13.93751486,0.770653472
+71,Juliet's Rescue - Heartbeats,clnsp608,rotational,BRIR,"(0, -2)",D4,1,2,20,15.40567116,0.802883778
+72,Juliet's Rescue - Heartbeats,clnsp362,rotational,BRIR,"(2, 0)",,,,,inf,1
+73,Juliet's Rescue - Heartbeats,clnsp362,rotational,BRIR,"(2, 0)",,,,,0,0.293724122
+74,Juliet's Rescue - Heartbeats,clnsp362,rotational,BRIR,"(2, 0)",D1,-1,2,265,14.91938578,0.671922628
+75,Juliet's Rescue - Heartbeats,clnsp362,rotational,BRIR,"(2, 0)",D2,-1,2,50,14.6842537,0.660942915
+76,Juliet's Rescue - Heartbeats,clnsp362,rotational,BRIR,"(2, 0)",D3,-1,2,175,13.30552162,0.671191017
+77,Juliet's Rescue - Heartbeats,clnsp362,rotational,BRIR,"(2, 0)",D4,-1,2,355,14.30812176,0.714046473
