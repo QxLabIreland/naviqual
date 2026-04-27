@@ -21,7 +21,7 @@ speech_xys = [(0, -2), (0, -2), (2, 0), (0, -2), (2, 0), (0, -2), (2, 0), (0, -2
 listener_xys = [None, None, None, None, None, None, None, (1, 2), (-1, 2), (1, 2), (-1, 2), (1, 2), (-1, 2)]
 
 # Configuration settings
-ir_type = "BRIR"
+ir_type = "HRIR"
 subject_id = "D1"
 speaker_layout = "none"
 sr = 44100
@@ -280,6 +280,6 @@ for mushra_index in range(7, 13):
     # Save the plots
     ax.set_title(f"Naviqual Polar Map at Listener Location {listener_xy} for {genre} Song with {ir_type}", va='bottom')
     ax.legend(bbox_to_anchor=(0.5, -0.1), loc='lower center', ncols=2)
-    plt.savefig(f'{plots_folder}{song_id}_{speech_id}_{ir_type.lower()}_s{speech_direction}_{response_name}_x{int((listener_xy[0]*10)+25)}y{int((listener_xy[1]*10)+25)}.jpg', dpi=300, bbox_inches='tight')
+    plt.savefig(f'{plots_folder}{song_id}_{speech_id}_{ir_type.lower()}_s{speech_direction}_{response_name}_x{int((listener_xy[0]*10)+25)}y{int((listener_xy[1]*10)+25)}.pdf', dpi=300, bbox_inches='tight')
     plt.show()
     plt.close()
