@@ -23,7 +23,7 @@ speech_xys = [(0, -2), (0, -2), (2, 0), (0, -2), (2, 0), (0, -2), (2, 0), (0, -2
 listener_xys = [None, None, None, None, None, None, None, (1, 2), (-1, 2), (1, 2), (-1, 2), (1, 2), (-1, 2)]
 
 # Configuration settings
-ir_type = "BRIR"
+ir_type = "HRIR"
 subject_id = "D1"
 speaker_layout = "none"
 sr = 44100
@@ -183,7 +183,7 @@ for mushra_index in range(1,7):
 
     # Reload the data frame
     df = pd.read_csv(f'{data_folder}{song_id}_{speech_id}_{ir_type.lower()}_s{speech_direction}.csv')
-    response_name = 'snr'
+    response_name = 'locq'
 
     df_pivot = df.pivot_table(index='listener_y', columns='listener_x', values=response_name)
     X = df_pivot.index.values
@@ -270,6 +270,6 @@ for mushra_index in range(1,7):
         if loc == listener_xy_b2:
             plt.plot(loc[0], loc[1], marker='o', ms=10, mec='black', mfc='none', mew=1)
     plt.legend(loc='lower center', ncol=2, fontsize=10)
-    plt.savefig(f'{plots_folder}{song_id}_{speech_id}_{ir_type.lower()}_s{speech_direction}_{response_name}.pdf', dpi=300, bbox_inches='tight')
+    plt.savefig(f'{plots_folder}{song_id}_{speech_id}_{ir_type.lower()}_s{speech_direction}_{response_name}.png', dpi=300, bbox_inches='tight')
     plt.show()
     plt.close()
