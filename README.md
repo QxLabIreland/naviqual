@@ -1,5 +1,7 @@
 # NAVIQUAL: Creating Spatial Audio Quality Maps for Virtual Live Music Environments
-Python Implementation of the NAVIQUAL paper published in the 160th AES Convention
+This repository contains the implementation of the paper NAVIQUAL: Creating Spatial Audio Quality Maps for Virtual Live Music Environments. This work was published in the 160th AES Convention held at Copenhagen Denmark. Citation as follows:
+
+Tolentino, Carl Timothy; Hines, Andrew; NAVIQUAL: Creating Spatial Audio Quality Maps for Virtual Live Music Environments [PDF]; University College Dublin; University College Dublin; Paper 10275; 2026 Available: https://aes.org/publications/elibrary-page/?id=23216
 
 ## Setup
 * Create a virtual environment with Python >= 3.10
@@ -50,3 +52,17 @@ Python Implementation of the NAVIQUAL paper published in the 160th AES Conventio
 <img width="385.8" height="266.2" alt="Juliet&#39;s Rescue - Heartbeats_clnsp608_hrir_s180_locq_x35y45" src="https://github.com/user-attachments/assets/74fdefa0-36e3-4f91-9506-609816107a8f" />
 
 <img width="389.4" height="266.2" alt="Juliet&#39;s Rescue - Heartbeats_clnsp362_hrir_s270_locq_x15y45" src="https://github.com/user-attachments/assets/aa143bf8-09f1-4ec9-bfe8-dba291b6e204" />
+
+## Citation
+If you use this project or code, please cite the associated paper as follows:
+```bibtex
+@inproceedings{Tolentino2026naviqual:, 
+title={{NAVIQUAL: Creating Spatial Audio Quality Maps for Virtual Live Music Environments}}, 
+author={Tolentino, Carl Timothy and Hines, Andrew}, 
+year={2026}, 
+month={jun}, 
+booktitle={Journal of the Audio Engineering Society}, 
+publisher={}, 
+number={10275}, 
+organization={AES}, 
+}
